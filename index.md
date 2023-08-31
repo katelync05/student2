@@ -13,11 +13,11 @@ title: student
 <center>- family & friends</center>
 <center>💗</center>
 
-<img src="https://i.imgur.com/nzZzllT.png" width="600" height="200">
+![]({{ site.baseurl }}/images/blog-cover.png "my logo")
 
 ## <center><font color = "#ECBFF"> Artworks </font></center>
-<center><img src="https://i.imgur.com/DqJZ8zl.png"></center>
 
+![]({{ site.baseurl }}/images/artworks.png "my logo")
 
 ## <center><font color = "#ECBFFF"> My Freeform Picture </font></center>
-![freeform pic](https://i.imgur.com/7YUCqwg.png)
+![freeform pic]({{ site.baseurl }}/images/freeform-pic.png "my logo")
