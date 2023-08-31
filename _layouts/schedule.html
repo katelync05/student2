@@ -42,8 +42,8 @@ Load all posts with site
 <table>
   <tr>
     <th>Week</th>
-    <th>Plans</th>
-    <th>Hacks(Todo)</th>
+    <th>Plan</th>
+    <th>Completed</th>
     <th>Tangibles</th>
   </tr>
 
@@ -61,7 +61,7 @@ Load all posts with site
 
   {% for index in (start..end) -%}
     {% assign plans = null | compact %}
-    {% assign hacks = null | compact %}
+    {% assign completed = null | compact %}
     {% assign tangibles = null | compact %}
 
 
